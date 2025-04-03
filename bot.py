@@ -1,4 +1,4 @@
-# bot.py
+app = FastAPI()# bot.py
 import logging
 import sqlite3
 from aiogram import Bot, Dispatcher, types
